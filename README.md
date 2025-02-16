@@ -1,24 +1,13 @@
-# koopa.studio website
+# Koopa Studio
 
-A modern Next.js website for KOOPA STUDIOS.
+A simple static website for Koopa Studio.
 
-## Getting Started
+## Structure
+- `index.html` - Main webpage
+- `public/` - Contains all assets including favicons and manifest
 
-1. Install dependencies:
-```bash
-npm install
-```
+## Usage
+Simply open `index.html` in a web browser to view the site.
 
-2. Run the development server:
-```bash
-npm run dev
-```
-
-3. Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-## Build for Production
-
-```bash
-npm run build
-npm start
-```
+## License
+All rights reserved.
